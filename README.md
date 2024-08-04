@@ -6,6 +6,7 @@ As you can see, I already added some letters in the stack container. (correction
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5dee4778-df74-4d3b-8e63-3e9aaaf032bf">
 <br>
 Popping some elements from the top of the stack.
+<br>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/1431c9c2-4d12-4f5a-bb9e-68b11dc13b6e">
 <br>
 Finally, byt clicking on the Top button, it will show which element is on the top of the stack.
